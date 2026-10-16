@@ -1,0 +1,46 @@
+{
+  "week": "2026-W42",
+  "entries": [
+    {
+      "id": "e-push-day-0b7532",
+      "routineId": "push-day-6183c9",
+      "routineName": "Push Day",
+      "date": "2026-10-12",
+      "week": "2026-W42",
+      "status": "done",
+      "workoutId": "2026-10-12-push-day-452073"
+    },
+    {
+      "id": "e-pull-day-ca8bd2",
+      "routineId": "pull-day-c01cff",
+      "routineName": "Pull Day",
+      "date": "2026-10-12",
+      "week": "2026-W42",
+      "status": "planned"
+    },
+    {
+      "id": "e-easy-cardio-8959f9",
+      "routineId": "easy-cardio-122ca9",
+      "routineName": "Easy Cardio",
+      "date": "2026-10-12",
+      "week": "2026-W42",
+      "status": "planned"
+    },
+    {
+      "id": "e-leg-day-8d7875",
+      "routineId": "leg-day-b54eea",
+      "routineName": "Leg Day",
+      "date": "2026-10-15",
+      "week": "2026-W42",
+      "status": "planned"
+    },
+    {
+      "id": "e-easy-cardio-2d219e",
+      "routineId": "easy-cardio-122ca9",
+      "routineName": "Easy Cardio",
+      "date": "2026-10-17",
+      "week": "2026-W42",
+      "status": "planned"
+    }
+  ]
+}
