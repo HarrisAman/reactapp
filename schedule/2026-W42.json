@@ -35,6 +35,14 @@
       "status": "planned"
     },
     {
+      "id": "e-leg-day-522023",
+      "routineId": "leg-day-b54eea",
+      "routineName": "Leg Day",
+      "date": "2026-10-16",
+      "week": "2026-W42",
+      "status": "planned"
+    },
+    {
       "id": "e-easy-cardio-2d219e",
       "routineId": "easy-cardio-122ca9",
       "routineName": "Easy Cardio",
