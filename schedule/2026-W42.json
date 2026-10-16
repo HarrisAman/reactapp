@@ -11,18 +11,18 @@
       "workoutId": "2026-10-12-push-day-452073"
     },
     {
-      "id": "e-pull-day-ca8bd2",
-      "routineId": "pull-day-c01cff",
-      "routineName": "Pull Day",
+      "id": "e-easy-cardio-8959f9",
+      "routineId": "easy-cardio-122ca9",
+      "routineName": "Easy Cardio",
       "date": "2026-10-12",
       "week": "2026-W42",
       "status": "planned"
     },
     {
-      "id": "e-easy-cardio-8959f9",
-      "routineId": "easy-cardio-122ca9",
-      "routineName": "Easy Cardio",
-      "date": "2026-10-12",
+      "id": "e-pull-day-ca8bd2",
+      "routineId": "pull-day-c01cff",
+      "routineName": "Pull Day",
+      "date": "2026-10-13",
       "week": "2026-W42",
       "status": "planned"
     },
