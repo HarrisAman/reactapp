@@ -1,0 +1,26 @@
+{
+  "id": "2026-10-16-leg-day-149316",
+  "name": "Leg day",
+  "date": "2026-10-16",
+  "notes": "",
+  "exercises": [
+    {
+      "name": "Leg press",
+      "sets": [
+        {
+          "reps": 3,
+          "weight": 150,
+          "rpe": null
+        },
+        {
+          "reps": null,
+          "weight": null,
+          "rpe": null
+        }
+      ]
+    }
+  ],
+  "tags": [],
+  "createdAt": "2026-10-16T18:21:33.196Z",
+  "updatedAt": "2026-10-16T18:21:33.196Z"
+}
