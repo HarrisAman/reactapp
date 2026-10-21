@@ -8,6 +8,14 @@
       "date": "2026-10-19",
       "week": "2026-W43",
       "status": "planned"
+    },
+    {
+      "id": "e-pull-day-fd9d16",
+      "routineId": "pull-day-c01cff",
+      "routineName": "Pull Day",
+      "date": "2026-10-19",
+      "week": "2026-W43",
+      "status": "planned"
     }
   ]
 }
